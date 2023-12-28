@@ -1,0 +1,33 @@
+*{
+    margin: 2;
+    padding: 2;
+}
+html{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+    margin: 10px 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+p{
+    padding: 2px;
+}
+a{
+    text-decoration: none;
+}
+.h4class{
+    color: coral;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 4rem;
+}
+.h4class:hover{
+    color: blueviolet;
+}
+a:hover{
+    color: gold;
+}
+.h5class{
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 4rem;
+}
